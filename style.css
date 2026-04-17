@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    background-color: #26388a; 
+    color: #ffffff;            
+    line-height: 1.5;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #001368;
+    padding: 1rem;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    
+}
+
+.menu a {
+    color: #ca3131;
+    
+}
+
+section {
+    margin: auto;
+    background-color: #001368;
+
+}
+
+img {
+    width: 300px; 
+    height: auto
+}
+
+footer {
+    color: #eb4949;
+    
+}
+
+footer a {
+    color: #eb4949; 
+}
+
